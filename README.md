@@ -17,10 +17,10 @@ The application works perfectly well but needs some adjustment.
 ## Installation requirements
 Git
 ## Demo and live server
- use the following link to take a look at the project ideas(https://docs.google.com/presentation/d/1OR9Jm6PabsYwlaYOE9WXTGpfcJ4h94TVXpQeEhhwYNs/edit?usp=sharing). Follow my project link at (https://github.com/Kichwen651/port3.git)
+ use the following link to take a look at the project ideas(https://docs.google.com/presentation/d/1OR9Jm6PabsYwlaYOE9WXTGpfcJ4h94TVXpQeEhhwYNs/edit?usp=sharing). Follow my project link at (https://kichwen651.github.io/port4/)
 
 ## Technologies Used
-HTML, CSS, bootstrap, avatar, JSON-server,db. JSON,GIT
+HTML, CSS, bootstrap, avatar, JSON-server,db. JSON, GIT
 
 ## Support and contact details
 email:: victor.kichwen@student.moringaschool.com
