@@ -1,0 +1,131 @@
+/* Reset some default styles */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Main heading styles */
+h1 {
+    text-align: center;
+    margin: 20px 0;
+    color: #e60e44; /* Primary color */
+}
+
+/* Navbar styling */
+.imgcontainer {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.imgcontainer img {
+    border-radius: 50%; /* Circular avatar */
+    width: 300px;
+    height: 300px;
+}
+
+/* Form container */
+.container {
+    max-width: 1200px; /* Max width for the container */
+    margin: 0 auto; /* Center form */
+    padding: 20px; /* Add padding */
+    background-color: rgb(37, 3, 53); /* White background for forms */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+/* Input styles */
+input, textarea {
+    width: 100%; /* Full width */
+    padding: 10px; /* Padding inside inputs */
+    margin-bottom: 10px; /* Space between inputs */
+    border: 1px solid #ccc; /* Light border */
+    border-radius: 5px; /* Rounded corners */
+}
+
+/* Button styles */
+button {
+    background-color: #e60e44; /* Primary button color */
+    color: white; /* Button text color */
+    border: none;
+    border-radius: 5px; /* Rounded corners */
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: background-color 0.3s; /* Smooth transition */
+}
+
+button:hover {
+    background-color: #c40c2c; /* Darker shade on hover */
+}
+
+/* Section styling */
+section {
+    margin: 20px;
+    text-align: center;
+}
+
+/* Dog Gallery styles */
+#dog-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.dog-card {
+    border: 1px solid #ccc;
+    margin: 10px; 
+    padding: 10px;
+    border-radius: 8px; 
+    background-color: white; /* Card background */
+}
+
+.dog-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+/* Buttons inside dog cards */
+.button {
+    margin-top: 10px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.like-button {
+    background-color: #ff6347;
+    color: white;
+}
+
+.share-button {
+    background-color: #4682b4;
+    color: white;
+}
+
+.buy-button {
+    background-color: #32cd32;
+    color: white;
+}
+
+/* Footer styles */
+.content {
+    min-height: 10vh; /* Ensure the content takes up the full height */
+}
+
+.footer {
+    background-color: rgba(0, 0, 0, 0.8); /* Black background with opacity */
+    color: white;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+    bottom: 10;
+    width: 100%;
+    
+}
+
+
+
+
+

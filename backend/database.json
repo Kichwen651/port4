@@ -1,0 +1,51 @@
+{
+  "dogs": [
+    {
+      "id": "1",
+      "name": "Tailor",
+      "age": 10,
+      "breed": "Pitbull",
+      "Imageurl": "https://st3.depositphotos.com/12241002/35702/i/450/depositphotos_357029584-stock-photo-beautiful-american-bully-dog-green.jpg",
+      "Price": 5500,
+      "Description": " It is a large, agile, muscular dog of noble character and high intelligence. Loyal, confident, courageous, and steady."
+      
+    },
+    {
+      "id": "2",
+      "name": "Peter",
+      "age": 10,
+      "breed": "German sherpherd",
+      "Imageurl": "https://media.istockphoto.com/id/806942944/photo/german-shepherd-dog.jpg?s=612x612&w=0&k=20&c=rm9Gt3YgnBxtPGbG2U1HdCj7vlfhE0T3fBJN4hZ2KOk=",
+      "Price": 4000,
+      "Description": " It is a large, agile, muscular dog of noble character and high intelligence. Loyal, confident, courageous, and steady."
+    },
+    {
+      "id": "3",
+      "name": "Timber",
+      "age": 3,
+      "breed": "Larbador",
+      "Imageurl": "https://st4.depositphotos.com/6684044/25206/i/450/depositphotos_252062420-stock-photo-dog-breed-labrador-retriever.jpg",
+      "Price": 3500,
+      "Description": "Friendly, outgoing, and high-spirited companions who have more than enough affection to go around for a family looking for a medium-to-large dog."
+    },
+    {
+      "id": "4",
+      "name": "Bella",
+      "age": 5,
+      "breed": "Beagle",
+      "Imageurl": "https://cdn.britannica.com/16/234216-050-C66F8665/beagle-hound-dog.jpg",
+      "Price": 3000,
+      "Description": " Small hound dog breed popular as both a pet and a hunter.It is a solidly built dog, heavy for its height."
+    },
+    {
+      "id": "5",
+      "name": "Rita",
+      "age": 4,
+      "breed": "Poodle",
+      "Imageurl": "https://media.istockphoto.com/id/1380984414/photo/toy-poddle-on-the-bed.jpg?s=612x612&w=0&k=20&c=Vuq4VKmYQmy5F3MQ64URAlZ9H5IJKVRbTo4SF8mQKtc=",
+      "Price": 2500,
+      "Description": "The poodle is an extremely smart, energetic, and friendly dog known for their signature curly coat and three size varieties."
+    }
+    
+  ]
+}

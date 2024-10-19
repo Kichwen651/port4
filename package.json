@@ -1,0 +1,8 @@
+{
+    "script": {
+      "start": "json-server --watch database.json --port 3000"
+    }
+  }
+   
+  
+  
